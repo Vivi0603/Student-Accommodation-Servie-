@@ -1,1 +1,1 @@
-# Student-Accommodation-Servie-
+# student-accommodation-app
